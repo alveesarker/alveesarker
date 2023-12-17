@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @alveesarker
 - 👀 I’m interested in developing website.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web development.
 
 <!---
 alveesarker/alveesarker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
