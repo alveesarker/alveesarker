@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alveesarker
-- 👀 I’m interested in developing website.
+- 👀 I’m interested in web developing.
 - 🤷‍♂️ Eager delve deeper into diverse projects and advance in the dynamic realm of programming.
 - 🌱 I’m currently learning web MERN stack.
 
