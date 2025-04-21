@@ -1,1 +1,1 @@
-##This repository includes various projects and code implementations related to my studies in Computer Science and Engineering. It features work in web development, algorithms, data structures, and more. The purpose is to showcase my learning journey, share useful code, and contribute to the open-source community.
+<span style="font-size: 12px;">Welcome to my GitHub profile! Here, I share projects related to my learning and work in Computer Science and Engineering. Feel free to explore my repositories!</span>
