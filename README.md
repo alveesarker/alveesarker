@@ -1,1 +1,3 @@
-<span style="font-size: 8px;">Welcome to my GitHub profile! Here, I share projects related to my learning and work in Computer Science and Engineering. Feel free to explore my repositories!</span>
+<p>Hello👋, I am Alvee Sarker.</p>
+<br/>
+<span style="font-size: 8px;">I'm a front-end developer, passionate about creating clean, responsive user interfaces using React, JavaScript, and Tailwind CSS. I enjoy building interactive web experiences and am currently exploring backend development with Node.js to grow as a full-stack developer.</span>
